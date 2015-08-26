@@ -8,10 +8,9 @@
     <style name="app_button_style">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_centerHorizontal">true</item>
         <item name="android:layout_marginLeft">64dp</item>
         <item name="android:layout_marginRight">64dp</item>
-        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:layout_marginBottom">12dp</item>
         <item name="android:background">@color/indigo_button</item>
         <item name="android:textColor">@android:color/white</item>
         <item name="android:onClick">onButtonClick</item>
